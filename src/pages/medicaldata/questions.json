@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "title": "Chronic and Past Health Conditions",
+      "description": "Do you have any chronic conditions such as diabetes or hypertension?",
+      "options": ["No", "Yes"]
+    },
+    {
+      "id": 2,
+      "title": "Chronic and Past Health Conditions",
+      "description": "Have you been hospitalized for any medical condition in the past five years?",
+      "options": ["No", "Yes"]
+    },
+    {
+      "id": 3,
+      "title": "Chronic and Past Health Conditions",
+      "description": "Have you ever had surgery for any medical condition?",
+      "options": ["No", "Yes"]
+    },
+    {
+      "id": 4,
+      "title": "Chronic and Past Health Conditions",
+      "description": "Have you experienced any recurring health issues, such as migraines or back pain?",
+      "options": ["No", "Yes"]
+    },
+    {
+      "id": 5,
+      "title": "Allergies",
+      "description": "Are you allergic to any medications such as antibiotics or painkillers?",
+      "options": ["No", "Yes"]
+    },
+    {
+      "id": 6,
+      "title": "Allergies",
+      "description": "Do you have food allergies, such as peanuts or shellfish?",
+      "options": ["No", "Yes"]
+    },
+    {
+      "id": 7,
+      "title": "Allergies",
+      "description": "Are you allergic to environmental factors like pollen or dust mites?",
+      "options": ["No", "Yes"]
+    },
+    {
+      "id": 8,
+      "title": "Allergies",
+      "description": "Do you have any allergies to insect stings or bites?",
+      "options": ["No", "Yes"]
+    }
+  ]
+  
