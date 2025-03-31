@@ -60,6 +60,20 @@ Thumbs.db
 .env.test.local
 .env.production.local
 
+# Model files
+src/**/*.model
+src/**/*.pt
+src/**/*.pth
+src/**/*.h5
+src/**/*.hdf5
+src/**/*.pkl
+src/**/*.joblib
+src/**/*.onnx
+src/**/*.tflite
+src/**/*.pb
+src/**/*.savedmodel/
+src/models
+
 # Backup files
 *.bak
 *.tmp
