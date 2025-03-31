@@ -14,7 +14,7 @@ grpcio
 h11
 h5py
 idna
-keras<3.0.0
+keras
 libclang
 Markdown
 markdown-it-py
@@ -39,7 +39,7 @@ sniffio
 starlette
 tensorboard
 tensorboard-data-server
-tensorflow-cpu>=2.13.0,<3.0.0
+tensorflow-cpu
 termcolor
 typing_extensions
 urllib3
