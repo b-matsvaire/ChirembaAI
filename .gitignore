@@ -74,6 +74,13 @@ src/**/*.pb
 src/**/*.savedmodel/
 src/models
 
+# Next.js
+.next/
+out/
+.vercel
+*.tsbuildinfo
+next-env.d.ts
+
 # Backup files
 *.bak
 *.tmp
